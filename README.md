@@ -2,8 +2,7 @@ Table of Contents
 Tasks Overview
 Usage Instructions
 Contributing
-License
-Tasks Overview
+
 1. Character Case Identifier (task1.py)
 Takes input from the user, identifies the case of characters, and prints the ASCII code of the lowercase characters.
 2. Paragraph Editor (task2.py)
