@@ -13,7 +13,7 @@ Prompts the user to enter a username and password, validates them against specif
 Implements a calculator class supporting various mathematical operations between two instances.
 5. Phone Directory (5task.py)
 Implements a phone directory with functionalities to search, update, and add contacts.
-6. Test Module (6task.py)
+6. Test Module (6task.py) with (questions.csv)
 Allows users to take an exam, fetches exam and user data from a CSV file, and validates the input.
 7. Exception Handling (7task.py)
 Implements scripts for handling various exceptions including user-defined exceptions.
