@@ -19,7 +19,7 @@ Implements a phone directory with functionalities to search, update, and add con
 Allows users to take an exam, fetches exam and user data from a CSV file, and validates the input.
 7. Exception Handling (7task.py)
 Implements scripts for handling various exceptions including user-defined exceptions.
-8. File Manager (8task.py) with -(8task-a.py) -(8task-b.py) -(8task-c.py) -(8task-d.py) -- "F"
+8. File Manager (8task.py) with -(8task-a.py) -(8task-b.py) -(8task-c.py) -(8task-d.py) (ex) (akshu.zip) -- "F"
 Provides functionalities to list, move, copy, and delete files and folders using command-line arguments.
 Sorts files and folders based on date and moves them to corresponding directories.
 Compresses folders created by File Manager and Sorter scripts using command-line arguments.
