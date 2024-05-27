@@ -50,9 +50,9 @@ if __name__ == "__main__":
     while True:
         increase = input("Do you want to increase the time? (y/n): ").strip().lower()  # Prompt user to increase time
         if increase == 'y':  # If the user wants to increase the time
-            hours = int(input("Enter hours to increase: "))  # Get the number of hours to increase
-            minutes = int(input("Enter minutes to increase: "))  # Get the number of minutes to increase
             seconds = int(input("Enter seconds to increase: "))  # Get the number of seconds to increase
+            minutes = int(input("Enter minutes to increase: "))  # Get the number of minutes to increase
+            hours = int(input("Enter hours to increase: "))  # Get the number of hours to increase
             increased_time = increase_time(time1, seconds=seconds, minutes=minutes, hours=hours)  # Increase the time
             print(f"Time after increasing: {increased_time.time()}")  # Display the increased time
             time1 = increased_time  # Update time1 to the new increased time for further increments
